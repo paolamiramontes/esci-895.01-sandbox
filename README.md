@@ -12,7 +12,7 @@ Amelea
 
 Minsum 
 
-Paola
+Paola: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paolamiramontes/Precipitaiton_Project/HEAD)
 
 Leah
 
